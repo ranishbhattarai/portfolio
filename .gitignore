@@ -40,7 +40,6 @@ wheels/
 db.sqlite3
 /media/
 /staticfiles/
-/static/css/dist/
 
 # Node modules
 node_modules/
